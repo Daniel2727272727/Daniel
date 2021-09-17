@@ -1,0 +1,59 @@
+h1 {
+    color: rgba(240, 59, 240, 0.575);
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-emphasis: center;
+}
+
+.p1 {
+    color: rgb(29, 199, 71);
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-emphasis: center;
+
+}
+
+.p2 {
+    font-size: 100%;
+    font-family: Tahoma;
+    text-emphasis: center;
+}
+
+.q1 {
+    font-size: 100%;
+    font-family: 'Times New Roman';
+    
+}
+
+.q2 {
+    font-size: 100%;
+    font-family: Arial;
+}
+
+.q3 {
+    font-size: 100%;
+    font-family: cursive;
+}
+
+.q4 {
+    font-size: 100%;
+    font-family: monospace;
+}
+
+.z1 {
+    
+}
+
+.l1 {
+    font-size: 100%;
+}
+
+h2 {
+    text-decoration: underline;
+}
+.l1 {
+    font-size: 100%;
+    }
+.border {
+    border: 2px solid #ff0000;
+    }
